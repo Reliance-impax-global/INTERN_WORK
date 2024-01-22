@@ -1,0 +1,79 @@
+{
+  "ngrok_url": {
+    "data": {
+      "name": "http-3000-d4ea96d2-14cc-4ce0-ab80-dbff3ba37768",
+      "ID": "064569cc6ed5098e195551109b988f9d",
+      "uri": "/api/tunnels/http-3000-d4ea96d2-14cc-4ce0-ab80-dbff3ba37768",
+      "public_url": "https://3d97-2401-4900-60d0-aa8c-4c05-a885-7213-149d.ngrok-free.app",
+      "proto": "https",
+      "config": { "addr": "http://localhost:3000", "inspect": true },
+      "metrics": {
+        "conns": {
+          "count": 0,
+          "gauge": 0,
+          "rate1": 0,
+          "rate5": 0,
+          "rate15": 0,
+          "p50": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0
+        },
+        "http": {
+          "count": 0,
+          "rate1": 0,
+          "rate5": 0,
+          "rate15": 0,
+          "p50": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0
+        }
+      }
+    },
+    "pyngrok_config": {
+      "ngrok_path": "/home/uttam/Desktop/rig_intern/venv/lib/python3.10/site-packages/pyngrok/bin/ngrok",
+      "config_path": null,
+      "auth_token": null,
+      "region": null,
+      "monitor_thread": true,
+      "log_event_callback": null,
+      "startup_timeout": 15,
+      "max_logs": 100,
+      "request_timeout": 4,
+      "start_new_session": false,
+      "ngrok_version": "v3",
+      "api_key": null
+    },
+    "api_url": "http://127.0.0.1:4040",
+    "id": "064569cc6ed5098e195551109b988f9d",
+    "name": "http-3000-d4ea96d2-14cc-4ce0-ab80-dbff3ba37768",
+    "proto": "https",
+    "uri": "/api/tunnels/http-3000-d4ea96d2-14cc-4ce0-ab80-dbff3ba37768",
+    "public_url": "https://3d97-2401-4900-60d0-aa8c-4c05-a885-7213-149d.ngrok-free.app",
+    "config": { "addr": "http://localhost:3000", "inspect": true },
+    "metrics": {
+      "conns": {
+        "count": 0,
+        "gauge": 0,
+        "rate1": 0,
+        "rate5": 0,
+        "rate15": 0,
+        "p50": 0,
+        "p90": 0,
+        "p95": 0,
+        "p99": 0
+      },
+      "http": {
+        "count": 0,
+        "rate1": 0,
+        "rate5": 0,
+        "rate15": 0,
+        "p50": 0,
+        "p90": 0,
+        "p95": 0,
+        "p99": 0
+      }
+    }
+  }
+}
